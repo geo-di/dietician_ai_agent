@@ -1,0 +1,285 @@
+Day 1:
+  Breakfast: Greek Yogurt with Berries and Nuts
+    Ingredients: 1 cup Greek yogurt, 1/2 cup mixed berries, 1 oz mixed nuts
+    Calories: 350, Protein: 25.0g, Carbs: 20.0g, Fat: 18.0g
+  Mid_morning_snack: Hard-Boiled Eggs
+    Ingredients: 2 hard-boiled eggs
+    Calories: 140, Protein: 13.0g, Carbs: 1.0g, Fat: 9.0g
+  Lunch: Grilled Chicken Salad
+    Ingredients: 4 oz grilled chicken breast, 2 cups mixed greens, 1/2 cup cherry tomatoes, 1/4 cup cucumber, 1/4 avocado, 1 tbsp olive oil, 1 tbsp lemon juice
+    Calories: 450, Protein: 40.0g, Carbs: 10.0g, Fat: 25.0g
+  Afternoon_snack: Cottage Cheese with Cucumber
+    Ingredients: 1 cup cottage cheese, 1/2 cucumber
+    Calories: 200, Protein: 22.0g, Carbs: 8.0g, Fat: 10.0g
+  Dinner: Baked Salmon with Asparagus
+    Ingredients: 6 oz salmon fillet, 1 cup asparagus, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 600, Protein: 45.0g, Carbs: 10.0g, Fat: 35.0g
+  Total Calories for the day: 1740
+  Macros: Protein: 145g, Carbs: 49g, Fat: 97g
+  Shopping List: 1 cup asparagus, 1 oz mixed nuts, 4 oz grilled chicken breast, 2 cups mixed greens, 1/4 cup cucumber, 6 oz salmon fillet, 1/2 cup cherry tomatoes, 1 cup cottage cheese, 1 tbsp olive oil, 1/2 cucumber, 2 hard-boiled eggs, 1/2 cup mixed berries, Salt and pepper to taste, 1 tbsp lemon juice, 1/4 avocado, 1 cup Greek yogurt
+
+Day 2:
+  Breakfast: Scrambled Eggs with Spinach
+    Ingredients: 3 large eggs, 1 cup spinach, 1 tbsp olive oil
+    Calories: 300, Protein: 22.0g, Carbs: 4.0g, Fat: 22.0g
+  Mid_morning_snack: Protein Shake
+    Ingredients: 1 scoop protein powder, 1 cup almond milk
+    Calories: 150, Protein: 25.0g, Carbs: 5.0g, Fat: 3.0g
+  Lunch: Tuna Salad Lettuce Wraps
+    Ingredients: 1 can tuna in water, 2 tbsp mayo, 1 tbsp Dijon mustard, 4 large lettuce leaves, 1/2 cucumber, 1/2 bell pepper
+    Calories: 350, Protein: 35.0g, Carbs: 5.0g, Fat: 20.0g
+  Afternoon_snack: Celery Sticks with Almond Butter
+    Ingredients: 2 celery sticks, 1 tbsp almond butter
+    Calories: 150, Protein: 4.0g, Carbs: 8.0g, Fat: 12.0g
+  Dinner: Grilled Shrimp Skewers with Zucchini
+    Ingredients: 6 oz shrimp, 1 medium zucchini, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 550, Protein: 40.0g, Carbs: 10.0g, Fat: 30.0g
+  Total Calories for the day: 1500
+  Macros: Protein: 126g, Carbs: 32g, Fat: 87g
+  Shopping List: 1 scoop protein powder, 1/2 bell pepper, 6 oz shrimp, 1 cup almond milk, 4 large lettuce leaves, 1 cup spinach, 1 tbsp olive oil, 3 large eggs, 1/2 cucumber, 1 medium zucchini, 1 can tuna in water, Salt and pepper to taste, 1 tbsp almond butter, 1 tbsp Dijon mustard, 2 tbsp mayo, 2 celery sticks
+
+Day 3:
+  Breakfast: Omelette with Mushrooms and Bell Peppers
+    Ingredients: 3 large eggs, 1/2 cup mushrooms, 1/2 bell pepper, 1 tbsp olive oil
+    Calories: 300, Protein: 20.0g, Carbs: 6.0g, Fat: 22.0g
+  Mid_morning_snack: Greek Yogurt with Almonds
+    Ingredients: 1 cup Greek yogurt, 1 oz almonds
+    Calories: 200, Protein: 15.0g, Carbs: 10.0g, Fat: 12.0g
+  Lunch: Chicken and Vegetable Stir-Fry
+    Ingredients: 4 oz chicken breast, 1 cup mixed vegetables, 1 tbsp olive oil, 1 tbsp soy sauce
+    Calories: 450, Protein: 40.0g, Carbs: 15.0g, Fat: 25.0g
+  Afternoon_snack: Cottage Cheese with Berries
+    Ingredients: 1 cup cottage cheese, 1/2 cup mixed berries
+    Calories: 200, Protein: 22.0g, Carbs: 15.0g, Fat: 7.0g
+  Dinner: Baked Cod with Green Beans
+    Ingredients: 6 oz cod fillet, 1 cup green beans, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 450, Protein: 40.0g, Carbs: 10.0g, Fat: 20.0g
+  Total Calories for the day: 1600
+  Macros: Protein: 137g, Carbs: 56g, Fat: 86g
+  Shopping List: 1/2 bell pepper, 1 oz almonds, 1 cup cottage cheese, 1 tbsp olive oil, 3 large eggs, 1 tbsp soy sauce, 1 cup mixed vegetables, Salt and pepper to taste, 1/2 cup mixed berries, 1 cup green beans, 1/2 cup mushrooms, 1 cup Greek yogurt, 6 oz cod fillet, 4 oz chicken breast
+
+Day 4:
+  Breakfast: Protein Smoothie
+    Ingredients: 1 scoop protein powder, 1 banana, 1 cup almond milk, 1 tbsp almond butter
+    Calories: 300, Protein: 30.0g, Carbs: 15.0g, Fat: 10.0g
+  Mid_morning_snack: Hard-Boiled Eggs
+    Ingredients: 2 hard-boiled eggs
+    Calories: 140, Protein: 13.0g, Carbs: 1.0g, Fat: 9.0g
+  Lunch: Turkey and Avocado Lettuce Wraps
+    Ingredients: 4 oz turkey breast, 1/2 avocado, 4 large lettuce leaves, 1/2 cucumber, 1/2 bell pepper
+    Calories: 400, Protein: 30.0g, Carbs: 10.0g, Fat: 25.0g
+  Afternoon_snack: Celery Sticks with Cream Cheese
+    Ingredients: 2 celery sticks, 2 tbsp cream cheese
+    Calories: 150, Protein: 3.0g, Carbs: 5.0g, Fat: 13.0g
+  Dinner: Grilled Chicken with Broccoli
+    Ingredients: 6 oz chicken breast, 1 cup broccoli, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 550, Protein: 50.0g, Carbs: 10.0g, Fat: 30.0g
+  Total Calories for the day: 1540
+  Macros: Protein: 126g, Carbs: 41g, Fat: 87g
+  Shopping List: 1 scoop protein powder, 1 cup almond milk, 4 large lettuce leaves, 2 tbsp cream cheese, 1/2 avocado, 1/2 cucumber, 1 tbsp olive oil, 2 hard-boiled eggs, 1 cup broccoli, 1 banana, 4 oz turkey breast, 1 tbsp almond butter, 6 oz chicken breast, Salt and pepper to taste, 1/2 bell pepper, 2 celery sticks
+
+Day 5:
+  Breakfast: Scrambled Eggs with Tomatoes
+    Ingredients: 3 large eggs, 1/2 cup cherry tomatoes, 1 tbsp olive oil
+    Calories: 300, Protein: 20.0g, Carbs: 6.0g, Fat: 22.0g
+  Mid_morning_snack: Protein Shake
+    Ingredients: 1 scoop protein powder, 1 cup almond milk
+    Calories: 150, Protein: 25.0g, Carbs: 5.0g, Fat: 3.0g
+  Lunch: Shrimp and Avocado Salad
+    Ingredients: 4 oz shrimp, 1/2 avocado, 2 cups mixed greens, 1/2 cucumber, 1 tbsp olive oil, 1 tbsp lemon juice
+    Calories: 450, Protein: 35.0g, Carbs: 10.0g, Fat: 30.0g
+  Afternoon_snack: Greek Yogurt with Walnuts
+    Ingredients: 1 cup Greek yogurt, 1 oz walnuts
+    Calories: 250, Protein: 15.0g, Carbs: 15.0g, Fat: 15.0g
+  Dinner: Baked Salmon with Asparagus
+    Ingredients: 6 oz salmon fillet, 1 cup asparagus, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 550, Protein: 40.0g, Carbs: 10.0g, Fat: 35.0g
+  Total Calories for the day: 1700
+  Macros: Protein: 135g, Carbs: 46g, Fat: 105g
+  Shopping List: 1 cup asparagus, 1 scoop protein powder, 1 cup almond milk, 2 cups mixed greens, 1 cup Greek yogurt, 4 oz shrimp, 1/2 cup cherry tomatoes, 1/2 avocado, 1 tbsp olive oil, 3 large eggs, 1/2 cucumber, Salt and pepper to taste, 1 tbsp lemon juice, 6 oz salmon fillet, 1 oz walnuts
+
+Day 6:
+  Breakfast: Omelette with Spinach and Feta
+    Ingredients: 3 large eggs, 1 cup spinach, 1 oz feta cheese, 1 tbsp olive oil
+    Calories: 350, Protein: 25.0g, Carbs: 6.0g, Fat: 25.0g
+  Mid_morning_snack: Hard-Boiled Eggs
+    Ingredients: 2 hard-boiled eggs
+    Calories: 140, Protein: 13.0g, Carbs: 1.0g, Fat: 9.0g
+  Lunch: Chicken Caesar Salad
+    Ingredients: 4 oz grilled chicken breast, 2 cups romaine lettuce, 2 tbsp Caesar dressing, 1/4 cup Parmesan cheese, 1/2 cucumber
+    Calories: 450, Protein: 40.0g, Carbs: 10.0g, Fat: 25.0g
+  Afternoon_snack: Cottage Cheese with Almonds
+    Ingredients: 1 cup cottage cheese, 1 oz almonds
+    Calories: 250, Protein: 22.0g, Carbs: 10.0g, Fat: 15.0g
+  Dinner: Grilled Shrimp with Zucchini Noodles
+    Ingredients: 6 oz shrimp, 1 medium zucchini, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 450, Protein: 40.0g, Carbs: 10.0g, Fat: 20.0g
+  Total Calories for the day: 1640
+  Macros: Protein: 140g, Carbs: 37g, Fat: 94g
+  Shopping List: 4 oz grilled chicken breast, 6 oz shrimp, 1 oz almonds, 1 cup cottage cheese, 1 cup spinach, 1 tbsp olive oil, 3 large eggs, 1/2 cucumber, 1 oz feta cheese, 1 medium zucchini, 2 hard-boiled eggs, 2 tbsp Caesar dressing, Salt and pepper to taste, 1/4 cup Parmesan cheese, 2 cups romaine lettuce
+
+Day 7:
+  Breakfast: Protein Pancakes
+    Ingredients: 1/2 cup oats, 1 scoop protein powder, 1/2 cup egg whites, 1/2 cup almond milk
+    Calories: 350, Protein: 30.0g, Carbs: 20.0g, Fat: 15.0g
+  Mid_morning_snack: Greek Yogurt with Berries
+    Ingredients: 1 cup Greek yogurt, 1/2 cup mixed berries
+    Calories: 150, Protein: 15.0g, Carbs: 15.0g, Fat: 0.0g
+  Lunch: Tuna Salad with Cucumber
+    Ingredients: 1 can tuna in water, 2 tbsp mayo, 1 tbsp Dijon mustard, 1/2 cucumber, 1/2 bell pepper
+    Calories: 350, Protein: 35.0g, Carbs: 5.0g, Fat: 20.0g
+  Afternoon_snack: Celery Sticks with Peanut Butter
+    Ingredients: 2 celery sticks, 1 tbsp peanut butter
+    Calories: 150, Protein: 5.0g, Carbs: 8.0g, Fat: 12.0g
+  Dinner: Baked Cod with Green Beans
+    Ingredients: 6 oz cod fillet, 1 cup green beans, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 450, Protein: 40.0g, Carbs: 10.0g, Fat: 20.0g
+  Total Calories for the day: 1450
+  Macros: Protein: 125g, Carbs: 58g, Fat: 67g
+  Shopping List: 1 tbsp Dijon mustard, 1 scoop protein powder, 1/2 bell pepper, 1 tbsp peanut butter, 1/2 cup egg whites, 1/2 cucumber, 1 tbsp olive oil, 1 can tuna in water, 1/2 cup mixed berries, Salt and pepper to taste, 1/2 cup oats, 1 cup green beans, 1/2 cup almond milk, 2 tbsp mayo, 1 cup Greek yogurt, 6 oz cod fillet, 2 celery sticks
+
+Note: Portions may vary, ingredients may change, according to specific diets and to always consider asking  dietician.
+
+
+
+Day 1:
+  Breakfast: Greek Yogurt with Berries and Almonds
+    Ingredients: 1 cup Greek yogurt, 1/2 cup mixed berries, 1 oz almonds
+    Calories: 350, Protein: 25.0g, Carbs: 20.0g, Fat: 18.0g
+  Mid_morning_snack: Baby Carrots with Hummus
+    Ingredients: 10 baby carrots, 2 tbsp hummus
+    Calories: 150, Protein: 5.0g, Carbs: 15.0g, Fat: 7.0g
+  Lunch: Grilled Chicken Salad
+    Ingredients: 4 oz grilled chicken, 2 cups mixed greens, 1/2 cup cherry tomatoes, 1/4 cup shredded carrots, 1/4 avocado, 2 tbsp balsamic vinaigrette
+    Calories: 450, Protein: 40.0g, Carbs: 10.0g, Fat: 25.0g
+  Afternoon_snack: Cottage Cheese with Cucumber
+    Ingredients: 1/2 cup cottage cheese, 1/2 medium cucumber
+    Calories: 150, Protein: 15.0g, Carbs: 5.0g, Fat: 7.0g
+  Dinner: Baked Salmon with Asparagus
+    Ingredients: 6 oz salmon fillet, 1 cup asparagus, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 550, Protein: 35.0g, Carbs: 10.0g, Fat: 35.0g
+  Total Calories for the day: 1650
+  Macros: Protein: 120g, Carbs: 60g, Fat: 92g
+  Shopping List: 1 cup asparagus, 10 baby carrots, 1/2 medium cucumber, 1 oz almonds, 2 cups mixed greens, 2 tbsp balsamic vinaigrette, 4 oz grilled chicken, 1/2 cup cherry tomatoes, 6 oz salmon fillet, 1 tbsp olive oil, 1/2 cup mixed berries, Salt and pepper to taste, 1/4 avocado, 2 tbsp hummus, 1 cup Greek yogurt, 1/4 cup shredded carrots, 1/2 cup cottage cheese
+
+Day 2:
+  Breakfast: Scrambled Eggs with Spinach
+    Ingredients: 2 large eggs, 1 cup spinach, 1 tsp olive oil
+    Calories: 300, Protein: 20.0g, Carbs: 5.0g, Fat: 20.0g
+  Mid_morning_snack: Apple Slices with Almond Butter
+    Ingredients: 1 medium apple, 1 tbsp almond butter
+    Calories: 200, Protein: 3.0g, Carbs: 25.0g, Fat: 10.0g
+  Lunch: Tuna Salad Lettuce Wraps
+    Ingredients: 1 can tuna in water, 2 tbsp mayo, 1 tbsp Dijon mustard, 4 large lettuce leaves, 1/4 cup diced carrots
+    Calories: 350, Protein: 30.0g, Carbs: 10.0g, Fat: 20.0g
+  Afternoon_snack: Greek Yogurt with Walnuts
+    Ingredients: 1/2 cup Greek yogurt, 1 oz walnuts
+    Calories: 200, Protein: 15.0g, Carbs: 10.0g, Fat: 12.0g
+  Dinner: Grilled Chicken with Roasted Vegetables
+    Ingredients: 6 oz grilled chicken, 1 cup mixed vegetables (bell peppers, zucchini, carrots), 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 650, Protein: 50.0g, Carbs: 20.0g, Fat: 35.0g
+  Total Calories for the day: 1700
+  Macros: Protein: 118g, Carbs: 70g, Fat: 97g
+  Shopping List: 6 oz grilled chicken, 2 large eggs, 1 cup mixed vegetables (bell peppers, zucchini, carrots), 4 large lettuce leaves, 1 medium apple, 1/2 cup Greek yogurt, 1 cup spinach, 1/4 cup diced carrots, 1 tbsp olive oil, 1 tsp olive oil, 1 can tuna in water, Salt and pepper to taste, 1 tbsp almond butter, 1 tbsp Dijon mustard, 2 tbsp mayo, 1 oz walnuts
+
+Day 3:
+  Breakfast: Protein Smoothie
+    Ingredients: 1 scoop protein powder, 1 cup almond milk, 1/2 cup frozen berries, 1/2 cup spinach, 1 tbsp chia seeds
+    Calories: 350, Protein: 30.0g, Carbs: 20.0g, Fat: 15.0g
+  Mid_morning_snack: Hard-Boiled Eggs with Cherry Tomatoes
+    Ingredients: 2 hard-boiled eggs, 1/2 cup cherry tomatoes
+    Calories: 150, Protein: 12.0g, Carbs: 5.0g, Fat: 10.0g
+  Lunch: Turkey and Cheese Roll-Ups
+    Ingredients: 4 oz turkey slices, 2 slices cheese, 1/4 cup shredded carrots, 1 tbsp cream cheese
+    Calories: 400, Protein: 30.0g, Carbs: 10.0g, Fat: 25.0g
+  Afternoon_snack: Cottage Cheese with Pineapple
+    Ingredients: 1/2 cup cottage cheese, 1/2 cup pineapple chunks
+    Calories: 150, Protein: 15.0g, Carbs: 15.0g, Fat: 5.0g
+  Dinner: Baked Cod with Green Beans
+    Ingredients: 6 oz cod fillet, 1 cup green beans, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 450, Protein: 35.0g, Carbs: 15.0g, Fat: 20.0g
+  Total Calories for the day: 1500
+  Macros: Protein: 122g, Carbs: 65g, Fat: 75g
+  Shopping List: 1/2 cup cottage cheese, 1 scoop protein powder, 1 tbsp cream cheese, 1 cup almond milk, 2 slices cheese, 1/2 cup cherry tomatoes, 1 tbsp olive oil, 1/2 cup spinach, 2 hard-boiled eggs, 1/2 cup pineapple chunks, 1 tbsp chia seeds, Salt and pepper to taste, 1 cup green beans, 4 oz turkey slices, 6 oz cod fillet, 1/4 cup shredded carrots, 1/2 cup frozen berries
+
+Day 4:
+  Breakfast: Omelette with Mushrooms and Bell Peppers
+    Ingredients: 3 large eggs, 1/2 cup mushrooms, 1/2 bell pepper, 1 tsp olive oil
+    Calories: 350, Protein: 25.0g, Carbs: 10.0g, Fat: 22.0g
+  Mid_morning_snack: Celery Sticks with Cream Cheese
+    Ingredients: 2 celery sticks, 2 tbsp cream cheese
+    Calories: 100, Protein: 2.0g, Carbs: 5.0g, Fat: 8.0g
+  Lunch: Chicken Caesar Salad
+    Ingredients: 4 oz grilled chicken, 2 cups romaine lettuce, 2 tbsp Caesar dressing, 1/4 cup shredded carrots, 1 tbsp grated Parmesan
+    Calories: 400, Protein: 35.0g, Carbs: 10.0g, Fat: 25.0g
+  Afternoon_snack: Greek Yogurt with Berries
+    Ingredients: 1/2 cup Greek yogurt, 1/2 cup mixed berries
+    Calories: 150, Protein: 15.0g, Carbs: 15.0g, Fat: 5.0g
+  Dinner: Grilled Shrimp with Zucchini Noodles
+    Ingredients: 6 oz shrimp, 1 medium zucchini, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 450, Protein: 35.0g, Carbs: 15.0g, Fat: 25.0g
+  Total Calories for the day: 1450
+  Macros: Protein: 112g, Carbs: 55g, Fat: 85g
+  Shopping List: 1 tbsp grated Parmesan, 1/2 bell pepper, 6 oz shrimp, 1/2 cup Greek yogurt, 4 oz grilled chicken, 2 tbsp cream cheese, 1 tbsp olive oil, 3 large eggs, 1 medium zucchini, 1 tsp olive oil, 1/2 cup mixed berries, 2 tbsp Caesar dressing, Salt and pepper to taste, 1/2 cup mushrooms, 2 cups romaine lettuce, 1/4 cup shredded carrots, 2 celery sticks
+
+Day 5:
+  Breakfast: Avocado and Egg Toast
+    Ingredients: 2 large eggs, 1/2 avocado, 2 slices low-carb bread
+    Calories: 400, Protein: 15.0g, Carbs: 15.0g, Fat: 28.0g
+  Mid_morning_snack: Baby Carrots with Ranch Dressing
+    Ingredients: 10 baby carrots, 2 tbsp ranch dressing
+    Calories: 100, Protein: 1.0g, Carbs: 10.0g, Fat: 5.0g
+  Lunch: Tuna Salad with Cucumber
+    Ingredients: 1 can tuna in water, 2 tbsp mayo, 1 medium cucumber, 1/4 cup diced carrots
+    Calories: 300, Protein: 25.0g, Carbs: 10.0g, Fat: 18.0g
+  Afternoon_snack: Almonds and String Cheese
+    Ingredients: 1 oz almonds, 1 string cheese
+    Calories: 250, Protein: 12.0g, Carbs: 10.0g, Fat: 20.0g
+  Dinner: Baked Lemon Herb Chicken with Broccoli
+    Ingredients: 6 oz chicken breast, 1 cup broccoli, 1 tbsp olive oil, Lemon and herbs to taste
+    Calories: 550, Protein: 45.0g, Carbs: 10.0g, Fat: 30.0g
+  Total Calories for the day: 1600
+  Macros: Protein: 98g, Carbs: 55g, Fat: 101g
+  Shopping List: 1 medium cucumber, 2 large eggs, 1 string cheese, 1 oz almonds, Lemon and herbs to taste, 1/2 avocado, 1/4 cup diced carrots, 1 tbsp olive oil, 1 cup broccoli, 1 can tuna in water, 2 tbsp ranch dressing, 6 oz chicken breast, 2 tbsp mayo, 10 baby carrots, 2 slices low-carb bread
+
+Day 6:
+  Breakfast: Protein Pancakes
+    Ingredients: 1/2 cup oats, 1/2 cup cottage cheese, 4 egg whites, 1 scoop protein powder
+    Calories: 350, Protein: 30.0g, Carbs: 25.0g, Fat: 12.0g
+  Mid_morning_snack: Cucumber Slices with Hummus
+    Ingredients: 1 medium cucumber, 2 tbsp hummus
+    Calories: 100, Protein: 3.0g, Carbs: 10.0g, Fat: 5.0g
+  Lunch: Grilled Chicken and Vegetable Skewers
+    Ingredients: 4 oz grilled chicken, 1 cup mixed vegetables (bell peppers, zucchini, carrots), 1 tbsp olive oil
+    Calories: 400, Protein: 35.0g, Carbs: 15.0g, Fat: 20.0g
+  Afternoon_snack: Greek Yogurt with Almonds
+    Ingredients: 1/2 cup Greek yogurt, 1 oz almonds
+    Calories: 200, Protein: 15.0g, Carbs: 10.0g, Fat: 12.0g
+  Dinner: Pan-Seared Salmon with Asparagus
+    Ingredients: 6 oz salmon fillet, 1 cup asparagus, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 550, Protein: 35.0g, Carbs: 10.0g, Fat: 35.0g
+  Total Calories for the day: 1600
+  Macros: Protein: 118g, Carbs: 70g, Fat: 84g
+  Shopping List: 1 cup asparagus, 1 medium cucumber, 1 scoop protein powder, 1 oz almonds, 1/2 cup Greek yogurt, 4 oz grilled chicken, 1 tbsp olive oil, Salt and pepper to taste, 1/2 cup oats, 1 cup mixed vegetables (bell peppers, zucchini, carrots), 2 tbsp hummus, 6 oz salmon fillet, 4 egg whites, 1/2 cup cottage cheese
+
+Day 7:
+  Breakfast: Smoothie Bowl
+    Ingredients: 1 scoop protein powder, 1 cup frozen mixed berries, 1/2 cup almond milk, 1 tbsp chia seeds, 1/2 cup spinach
+    Calories: 350, Protein: 20.0g, Carbs: 30.0g, Fat: 15.0g
+  Mid_morning_snack: Cherry Tomatoes with Mozzarella
+    Ingredients: 1/2 cup cherry tomatoes, 1 oz mozzarella cheese
+    Calories: 150, Protein: 8.0g, Carbs: 5.0g, Fat: 10.0g
+  Lunch: Turkey and Avocado Lettuce Wraps
+    Ingredients: 4 oz turkey slices, 1/2 avocado, 4 large lettuce leaves, 1/4 cup shredded carrots
+    Calories: 400, Protein: 30.0g, Carbs: 10.0g, Fat: 25.0g
+  Afternoon_snack: Cottage Cheese with Mandarin Oranges
+    Ingredients: 1/2 cup cottage cheese, 1/2 cup mandarin oranges
+    Calories: 150, Protein: 15.0g, Carbs: 15.0g, Fat: 5.0g
+  Dinner: Grilled Steak with Sautéed Mushrooms
+    Ingredients: 6 oz steak, 1 cup mushrooms, 1 tbsp olive oil, Salt and pepper to taste
+    Calories: 600, Protein: 40.0g, Carbs: 10.0g, Fat: 40.0g
+  Total Calories for the day: 1650
+  Macros: Protein: 113g, Carbs: 70g, Fat: 95g
+  Shopping List: 1 oz mozzarella cheese, 1 scoop protein powder, 1 cup frozen mixed berries, 4 large lettuce leaves, 1/2 cup cherry tomatoes, 1/2 avocado, 1 tbsp olive oil, 1/2 cup spinach, 1 tbsp chia seeds, 6 oz steak, Salt and pepper to taste, 1/2 cup mandarin oranges, 4 oz turkey slices, 1/2 cup almond milk, 1 cup mushrooms, 1/4 cup shredded carrots, 1/2 cup cottage cheese
+
+Note: Portions may vary, ingredients may change, according to specific diets and to always consider asking  dietician.
